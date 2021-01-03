@@ -35,7 +35,7 @@ text("Tap to Start"){
 ![https://yayachang.github.io/ithome2020/images/day05-03.png](https://yayachang.github.io/ithome2020/images/day05-03.png)
 
 ### 觸發onClick進到下一場景
-既然我們都寫了Tap to Start，那就要真的來實作按下去就會跳進下一個Menu畫面了，我們在[Day03](https://yayachang.github.io/ithome2020/day3)的範例就有用按鈕去操作切換場景囉！不過KorGE所有的view物件都有onClick的功能，就是觸發點擊事件，所以這裡是拿Text再來做一次練習。
+既然我們都寫了Tap to Start，那就要真的來實作按下去就會跳進下一個Menu畫面了，我們在[Day03](https://yayachang.github.io/ithome2020/day03)的範例就有用按鈕去操作切換場景囉！不過KorGE所有的view物件都有onClick的功能，就是觸發點擊事件，所以這裡是拿Text再來做一次練習。
 ```
 text("Tap to Start"){
     textSize = 30.0
