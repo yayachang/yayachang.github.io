@@ -1,5 +1,5 @@
 # [Day08] 繼續學習動畫特效
-[前一篇](https://yayachang.github.io/ithome2020/day7)已經學會用```while(true)+delay```以及```addFixedUpdater```跟```addHrUpdater```來製作一些簡易的動畫特效，不過KorGE還有提供其他方法來更容易實現動畫特效，分別是```Tweens跟Animator```，就讓筆者帶大家一起來學習了。
+[前一篇](https://yayachang.github.io/ithome2020/day07)已經學會用```while(true)+delay```以及```addFixedUpdater```跟```addHrUpdater```來製作一些簡易的動畫特效，不過KorGE還有提供其他方法來更容易實現動畫特效，分別是```Tweens跟Animator```，就讓筆者帶大家一起來學習了。
 
 ### Tweens
 依照字面上的理解，Tween意思是8~10歲的少年，好像也有說法是來是從between來的，其實主要表達就是兩者之間的意思，而遊戲也有稱作圍"補間動畫"。
