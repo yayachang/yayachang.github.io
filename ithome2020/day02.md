@@ -25,7 +25,7 @@
 ![https://yayachang.github.io/ithome2020/images/day02-01.png](https://yayachang.github.io/ithome2020/images/day02-01.png)
 
 ### SPLASH畫面
-不知各位有沒有注意到，其實在[Day1](https://yayachang.github.io/ithome2020/day1)的時候，大家幾乎就像是把SPLASH畫面這個功能做出來了，當然希望有更吸引人的進版畫面，就要有厲害的美術設計。
+不知各位有沒有注意到，其實在[Day1](https://yayachang.github.io/ithome2020/day01)的時候，大家幾乎就像是把SPLASH畫面這個功能做出來了，當然希望有更吸引人的進版畫面，就要有厲害的美術設計。
 
 ### Menu畫面
 通常這裡常玩遊戲可能就是類似遊戲大廳，有開始遊戲的進入點，也有各處的子系統的入口，例如像是角色設定，道具設定，或是商店等等，但是我們要示範做小遊戲，所以就簡單先只有遊戲開始的入口了。
