@@ -1,5 +1,5 @@
 
-# ithome2020
+# ithome2020 用KorGE開發自己的Kotlin小遊戲
 
 ## [Day01 學會安裝KorGE](https://yayachang.github.io/ithome2020/day01)
 ## [Day02 想想遊戲架構跟設計](https://yayachang.github.io/ithome2020/day02)
