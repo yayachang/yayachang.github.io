@@ -192,7 +192,7 @@ Enemy敵人跟Obstacle障礙物: 碰到外星人，但是其實不會消失，�
 
 ### 開始來玩玩!
 
-![https://cdn-images-1.medium.com/max/640/1*FQlX5XOyT8U66mhnnMzASQ.gif](https://cdn-images-1.medium.com/max/640/1*FQlX5XOyT8U66mhnnMzASQ.gif)
+![https://yayachang.github.io/ithome2020/images/day18-06.gif](https://yayachang.github.io/ithome2020/images/day18-06.gif)
 
 外星人已經吃金幣有分數囉！而且金幣也會消失在畫面，碰到怪物敵人也會被扣一個血包，外星人也露出痛苦表情並有閃爍的特效！！ 
 
