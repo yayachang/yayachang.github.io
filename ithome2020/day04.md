@@ -1,5 +1,5 @@
 # [Day04] 使用Image處理圖片
-這一篇的教學要教大家怎麼在你的場景上放置一些Image(圖片)跟對圖片做一些變化，所以會介紹到KorGE提供在[Day01](https://yayachang.github.io/ithome2020/day1)第一篇一開始就使用過的Image類別。
+這一篇的教學要教大家怎麼在你的場景上放置一些Image(圖片)跟對圖片做一些變化，所以會介紹到KorGE提供在[Day01](https://yayachang.github.io/ithome2020/day01)第一篇一開始就使用過的Image類別。
 
 ### 讀取Image圖片
 ```
