@@ -4,7 +4,7 @@
 ### while (true) + delay
 這是官方文件介紹其中一個的簡單實現動畫效果的方式，就是在一個迴圈內實作你要想要的效果。
 
-這時就聯想到我們在[Day04](https://yayachang.github.io/ithome2020/day4)時有學到Image的alpha值變化以及前兩回[Day05](https://yayachang.github.io/ithome2020/day5)跟[Day06](https://yayachang.github.io/ithome2020/day6)有一個進版提示文字"Tap to Start"，讓這個提示文字透過alpha值的變化，達到漸變消失又再次顯示的效果，進而更吸引玩家的注意!
+這時就聯想到我們在[Day04](https://yayachang.github.io/ithome2020/day04)時有學到Image的alpha值變化以及前兩回[Day05](https://yayachang.github.io/ithome2020/day05)跟[Day06](https://yayachang.github.io/ithome2020/day06)有一個進版提示文字"Tap to Start"，讓這個提示文字透過alpha值的變化，達到漸變消失又再次顯示的效果，進而更吸引玩家的注意!
 
 記得先找出前一回練習的程式碼，然後把套用字型的"Tap to Start"的image物件宣告一個tapString變數，好讓在```while(true)+delay```區塊內進行操作。
 
