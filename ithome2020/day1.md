@@ -96,5 +96,5 @@ suspend fun main() = Korge(width = 512, height = 512, bgcolor = Colors["#2b2b2b"
 我接下來的文章也會慢慢介紹怎麼用KorGE提供的元件來實現遊戲設計中需要的元素唷。
 
 ### 參考資料
-* (https://korlibs.soywiz.com/korge/gettingstarted/setup/)
-* (https://www.youtube.com/watch?v=ANMiHx3z_No&feature=emb_logo)
+* [https://korlibs.soywiz.com/korge/gettingstarted/setup/]
+* [https://www.youtube.com/watch?v=ANMiHx3z_No&feature=emb_logo]
