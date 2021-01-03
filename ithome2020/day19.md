@@ -4,13 +4,13 @@
 ### 遊戲的門面Splash
 如果大家在[Day13-遊戲背景製作](https://yayachang.github.io/ithome2020/day13)有印象的話，我們選用了一張具有冒險動作遊戲的氣氛的圖片，所以只要在Splash.kt裡修改載入的圖片，就能完成進版畫面了!
 
-![https://yayachang.github.io/ithome2020/images/day19-01.png](hhttps://yayachang.github.io/ithome2020/images/day19-01.png)
+![https://yayachang.github.io/ithome2020/images/day19-01.png](https://yayachang.github.io/ithome2020/images/day19-01.png)
 
 但是有KENNEY大大的LOGO在那裏(用佛心的免費開源圖片而且修改也不用額外說明跟付授權費，這應該要多幫忙宣傳)，如果你也喜歡這類的風格素材也可以購買其它需要付費的素材。
 
 圖片素材網站:https://kenney.nl/assets/platformer-art-deluxe
 
-![https://yayachang.github.io/ithome2020/images/day19-02.png](https://yayachang.github.io/ithome2020/images/day19-02.pngg)
+![https://yayachang.github.io/ithome2020/images/day19-02.png](https://yayachang.github.io/ithome2020/images/day19-02.png)
 
 既然可以原作者允許修改原圖，我就可以試著用GIMP免費影像處理程式來把LOGO去掉，加一個自己取名的LOGO: ```ALIEN RUN```。
 
