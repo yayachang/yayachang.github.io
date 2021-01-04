@@ -1,4 +1,5 @@
 # 使用Palette根據圖片顏色來顯示字體的顏色跟背景色
+
 這次用藍色的哆拉A夢跟黃色的哆拉A夢來Demo!
 
 ![https://yayachang.github.io/Kotlin/images/andoroid_palette.png](https://yayachang.github.io/Kotlin/images/andoroid_palette.png)
@@ -6,6 +7,7 @@
 踩雷的部分是，我以為只要取vibrantSwatch就好，結果發現有的圖根本沒有vibrant的色調，只好再去找，就這樣一路判斷到有色調，截出來字跟背景才正常顯示。
 
 ### 程式碼
+
 ```
 private fun getSwatch(palette: Palette): Swatch? {
 
