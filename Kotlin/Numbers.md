@@ -4,7 +4,7 @@ Kotlin的類別基本上都是用物件 Object 表示，意思就是宣告Kotlin
 
 ### Numbers是Kotlin內建類型的其中一個種類，分別有以下：
 
-|類型	|長度	|
+|**類型**	|**長度**	|
 |-	|-	|
 |Long	|64bit	|
 |Int	|32bit	|
