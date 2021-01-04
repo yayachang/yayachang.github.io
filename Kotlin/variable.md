@@ -8,7 +8,7 @@ Kotlin有兩個關鍵字來定義變數，分別是val跟var。
 
 var就是數值可以隨時再被修改的的變數，而val就是被定義後，就不能再被修改的常數。
 
-### var的舉例：寫一個Hello World!，然後下一步再改成Hello World!
+### var的舉例：寫一個Hello World!，然後下一步再改成Hello Kotlin!
 ```
 fun main() {
     var name = "Hello World!"
@@ -23,7 +23,7 @@ name:Hello World!
 name:Hello Kotlin!
 ```
 
-### val的錯誤舉例：寫一個Hello World!，然後下一步再改成Hello World!
+### val的錯誤舉例：寫一個Hello World!，然後下一步再改成Hello Kotlin!
 ```
 fun main() {
     val name = "Hello World!"
