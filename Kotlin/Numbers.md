@@ -3,14 +3,15 @@
 Kotlin的類別基本上都是用物件 Object 表示，意思就是宣告Kotlin的變數類型基本上都可以給null。
 
 ### Numbers是Kotlin內建類型的其中一個種類，分別有以下：
-|  類型 |  長度 |
-|---|---|
-| Long  |  64bit | 
-| Int  |  32bit | 
-| Short | 16bit  | 
-| Byte  |  8bit | 
-| Double | 64bit  | 
-| Float | 32bit  | 
+
+|類型	|長度	|
+|-	|-	|
+|Long	|64bit	|
+|Int	|32bit	|
+|Short	|16bit	|
+|Byte	|8bit	|
+|Double	|64bit	|
+|Float	|32bit	|
 
 以我的工作經驗來說，最常用的當然是Int(一般數字存取）, 再來是Long（多用在存timestamp)，再來是Double跟Float存小數點數值，Byte比較常用在直接用WiFi或是藍牙傳輸raw data，像韌體工師通常都是16進位Hex思維設計程式，所以通常都會用Byte，而Short就真正在實戰上比較少用了。
 
