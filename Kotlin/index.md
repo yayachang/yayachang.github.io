@@ -4,3 +4,4 @@
 ### [var、val介紹](https://yayachang.github.io/Kotlin/variable)
 ### [Type Inference](https://yayachang.github.io/Kotlin/type_inference)
 ### [Numbers](https://yayachang.github.io/Kotlin/Numbers)
+### [Boolean](https://yayachang.github.io/Kotlin/boolean)
