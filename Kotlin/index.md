@@ -5,3 +5,4 @@
 ### [Type Inference](https://yayachang.github.io/Kotlin/type_inference)
 ### [Numbers](https://yayachang.github.io/Kotlin/Numbers)
 ### [Boolean](https://yayachang.github.io/Kotlin/boolean)
+### [Char](https://yayachang.github.io/Kotlin/char)
