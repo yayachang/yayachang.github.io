@@ -6,3 +6,4 @@
 ### [Numbers](https://yayachang.github.io/Kotlin/Numbers)
 ### [Boolean](https://yayachang.github.io/Kotlin/boolean)
 ### [Char](https://yayachang.github.io/Kotlin/char)
+### [String](https://yayachang.github.io/Kotlin/string)
