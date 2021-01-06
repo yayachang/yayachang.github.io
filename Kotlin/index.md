@@ -7,3 +7,4 @@
 ### [Boolean](https://yayachang.github.io/Kotlin/boolean)
 ### [Char](https://yayachang.github.io/Kotlin/char)
 ### [String](https://yayachang.github.io/Kotlin/string)
+### [Range](https://yayachang.github.io/Kotlin/range)
