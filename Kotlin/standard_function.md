@@ -1,6 +1,5 @@
 # Standar Functions
 
-￼
 ### apply
 減少redundant code
 
