@@ -5,7 +5,7 @@
 ### 實際螢幕與虛擬螢幕
 KorGE在處理畫面就有分為Native Screen跟Virtual Screen，官方文件提供的螢幕解析度說明應該就表示很清楚，這個用KorGE建立的視窗，實際螢幕大小就是1920x1080，而虛擬螢幕大小就是640x480。
 
-![https://yayachang.github.io/ithome2020/images/day12-01.png](https://yayachang.github.io/ithome2020/images/day11-01.png)
+![https://yayachang.github.io/ithome2020/images/day12-01.png](https://yayachang.github.io/ithome2020/images/day12-01.png)
 
 圖片資料來源: https://korlibs.soywiz.com/korge/reference/resolutions/
 
