@@ -35,6 +35,7 @@ channel.stop()
 https://github.com/korlibs/korau/releases/tag/v2.0.0
 所以有使用到音樂或音效的朋友們，把KoreGE library升級到2.0就可以囉。
 以下範例就自己依情況使用拉
+
 ```
 val music = resourcesVfs["music.mp3"].readMusic()
 val channel = music.play(PlaybackTimes.INFINITE)
