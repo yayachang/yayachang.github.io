@@ -16,8 +16,22 @@ KorGE這次使用音效的功能是同一系列korlibs的KorAu，一樣都是由
 val music = resourcesVfs["music.mp3"].readMusic()
 music.play()
 ```
-```music.play()```只會播一次，想要指定播放次數可以這樣寫```music.play(2.playbackTimes)```，
-想要無限循環播放就這樣寫。```music.play(PlaybackTimes.INFINITE)```
+
+只會播一次這樣寫
+
+```
+music.play()
+```
+
+想要指定播放次數可以這樣寫
+```
+music.play(2.playbackTimes)
+```
+
+想要無限循環播放就這樣寫
+```
+music.play(PlaybackTimes.INFINITE)
+```
 
 如果想要終止聲音就比較麻煩點，需要先把聲音分配給channel，透過channel來停止。
 ```
