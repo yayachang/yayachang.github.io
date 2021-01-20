@@ -54,6 +54,7 @@ suspend fun getHighestScore():Int{
 ```
 ### 顯示自己的最高分數在畫面上
 有了玩家自己的最高分數後，我們才會將紀錄上傳至伺服器讓伺服器的程式幫助我們跟全部線上的玩家進行排行榜的比分。
+
 ![https://yayachang.github.io/ithome2020/images/day21-01.png](https://yayachang.github.io/ithome2020/images/day21-01.png)
 
 ### 總結
