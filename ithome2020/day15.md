@@ -28,7 +28,7 @@ class Background: Item() {
 }
 ```
 *回到GamePlay.kt的程式碼:*
-這時已經可以先把先前寫在GamePlay的練習程式先移掉擺在一旁，我們要開始重新寫新的Code，所以只要保留sceneInit()的殼。我們在GamePlay.kt的sceneInit()裡進行背景圖的載入，並且讓背景加到GaemPlay裡。
+這時已經可以先把先前寫在GamePlay的練習程式先移掉擺在一旁，我們要開始重新寫新的Code，所以只要保留sceneInit()的殼。我們在GamePlay.kt的sceneInit()裡進行背景圖的載入，並且讓背景加到GamePlay裡。
 ```
 class GamePlay : Scene() {
     override suspend fun Container.sceneInit() {
