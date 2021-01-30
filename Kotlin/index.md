@@ -9,3 +9,5 @@
 ### [String](https://yayachang.github.io/Kotlin/string)
 ### [Range](https://yayachang.github.io/Kotlin/range)
 ### [貓王運算子 Elvis Operator ?:](https://yayachang.github.io/Kotlin/elvis_operator)
+### [Loops](https://yayachang.github.io/Kotlin/Loops)
+
