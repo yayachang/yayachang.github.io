@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Hugoplate</title>
+    <link>https://yayachang.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Hugoplate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Nov 2024 14:06:22 +0800</lastBuildDate>
+    <atom:link href="https://yayachang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>怎麼用Github加上Hugo架個人網站？</title>
+      <link>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</link>
+      <pubDate>Sun, 17 Nov 2024 14:06:22 +0800</pubDate>
+      <guid>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
