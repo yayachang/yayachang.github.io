@@ -161,15 +161,15 @@
       
       
       
-        <meta property="og:image" content="https://yayachang.github.io/images/image-placeholder.png" />
-        <meta name="twitter:image" content="https://yayachang.github.io/images/image-placeholder.png" />
+        <meta property="og:image" content="https://yayachang.github.io/images/hugo_github.png" />
+        <meta name="twitter:image" content="https://yayachang.github.io/images/hugo_github.png" />
         <meta
           name="twitter:card"
           content="summary_large_image" />
       
       
-      <meta property="og:image:width" content="1096" />
-      <meta property="og:image:height" content="480" />
+      <meta property="og:image:width" content="1020" />
+      <meta property="og:image:height" content="618" />
     
 
 
@@ -330,8 +330,8 @@
 
 
 <link
-  href="/css/style.min.1a943143f7ce25463633f19e733d3b66eeff43f0999e28c4ccae2c08a1df32a4.css"
-  integrity="sha256-GpQxQ/fOJUY2M/Gecz07Zu7/Q/CZnijEzK4sCKHfMqQ="
+  href="/css/style.min.59c65e4c5987af38ccd7eaf0a130aba2df0a573eb78b70b3ece92dfc14fad415.css"
+  integrity="sha256-WcZeTFmHrzjM1+rwoTCrot8KVz63i3Cz7Okt/BT61BU="
   rel="stylesheet" />
 
 
@@ -860,31 +860,31 @@
         <picture>
           <source
             
-              srcset="/images/image-placeholder_hu14898866438330350576.webp"
+              srcset="/images/hugo_github_hu14252345276137928440.webp"
             
             media="(max-width: 575px)" />
           <source
             
-              srcset="/images/image-placeholder_hu3366426647807776041.webp"
+              srcset="/images/hugo_github_hu7519376189794881528.webp"
             
             media="(max-width: 767px)" />
           <source
             
-              srcset="/images/image-placeholder_hu15761394040035298493.webp"
+              srcset="/images/hugo_github_hu80956082213594774.webp"
             
             media="(max-width: 991px)" />
           <source
             
-              srcset="/images/image-placeholder_hu9923120856516670921.webp"
+              srcset="/images/hugo_github_hu5464215436229530473.webp"
              />
           <img
             
               loading="lazy" decoding="async"
-              src="/images/image-placeholder_hu10538127647789974651.png"
+              src="/images/hugo_github_hu3351201973278603453.png"
             class=" w-full rounded img"
             alt="怎麼用Github加上Hugo架個人網站？"
-            width="1096"
-            height="480" />
+            width="1020"
+            height="618" />
         </picture>
       
       
@@ -949,19 +949,214 @@
   </summary>
   <nav id="TableOfContents">
   <ol>
-    <li><a href="#creative-design">Creative Design</a></li>
+    <li><a href="#mac-環境-hugo-安裝操作手冊"><strong>Mac 環境 Hugo 安裝操作手冊</strong></a></li>
+    <li><a href="#安裝-homebrew"><strong>安裝 Homebrew</strong></a></li>
+    <li><a href="#安裝-hugo"><strong>安裝 Hugo</strong></a></li>
+    <li><a href="#選擇-hugo-主題"><strong>選擇 Hugo 主題</strong></a></li>
+    <li><a href="#安裝-go"><strong>安裝 Go</strong></a></li>
+    <li><a href="#建立-hugo-專案"><strong>建立 Hugo 專案</strong></a></li>
+    <li><a href="#初始化版本控制並下載主題"><strong>初始化版本控制並下載主題</strong></a></li>
+    <li><a href="#安裝-hugoplate-所需的依賴"><strong>安裝 Hugoplate 所需的依賴</strong></a></li>
+    <li><a href="#產生文章"><strong>產生文章</strong></a></li>
+    <li><a href="#部署到-github-pages"><strong>部署到 GitHub Pages</strong></a></li>
+    <li><a href="#訪問您的網站"><strong>訪問您的網站</strong></a></li>
   </ol>
 </nav>
 </details>
 
-            <p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</p>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!</p>
-<h2 id="creative-design">Creative Design</h2>
-<p>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</p>
-<blockquote>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!</p>
-</blockquote>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!</p>
+            <p>最近看到有人用 GitHub + Hugo 架設網站，覺得有趣就試試看。
+花了半天研究，加上 AI 幫忙，終於弄出個樣子。
+用了 HugoPlate 和 GitHub，成功架設了個人網站。
+記錄下安裝步驟，避免哪天突然壞掉。
+原來這樣的技術還能拿來開課，真是開眼界！原來市場這麼需要這些簡單易懂實用的技術。
+學到不少，也算是一次有趣的嘗試！</p>
+<h2 id="mac-環境-hugo-安裝操作手冊"><strong>Mac 環境 Hugo 安裝操作手冊</strong></h2>
+<h2 id="安裝-homebrew"><strong>安裝 Homebrew</strong></h2>
+<ul>
+<li>
+<p>確保您的 Mac 環境已安裝 Homebrew。如果尚未安裝，請按照以下步驟進行操作。</p>
+<ul>
+<li>
+<p><strong>Homebrew 官方網站：</strong><br>
+<a href="https://brew.sh/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>https://brew.sh/</a></p>
+</li>
+<li>
+<p><strong>安裝指令：</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>/bin/bash -c <span style="color:#e6db74">&#34;</span><span style="color:#66d9ef">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span style="color:#66d9ef">)</span><span style="color:#e6db74">&#34;</span>
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="安裝-hugo"><strong>安裝 Hugo</strong></h2>
+<ul>
+<li>
+<p>安裝完 Homebrew 後，您可以使用 Homebrew 安裝 Hugo。</p>
+<ul>
+<li><strong>指令：</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>brew install hugo
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="選擇-hugo-主題"><strong>選擇 Hugo 主題</strong></h2>
+<ul>
+<li>推薦主題：<a href="https://themes.gohugo.io/themes/hugoplate/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>Hugoplate</a><br>
+此主題簡單易用且適合新手。</li>
+</ul>
+<hr>
+<h2 id="安裝-go"><strong>安裝 Go</strong></h2>
+<ul>
+<li>
+<p>Hugoplate 主題需要 Go 編譯器。使用 Homebrew 安裝 Go：</p>
+<ul>
+<li><strong>指令：</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>brew install go
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="建立-hugo-專案"><strong>建立 Hugo 專案</strong></h2>
+<ul>
+<li>
+<p>按照官網的步驟，開始建立 Hugo 專案。</p>
+<ul>
+<li><strong>指令：</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site my-hugoplate-site
+</span></span></code></pre></div></li>
+</ul>
+</li>
+<li>
+<p>進入專案目錄：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd my-hugoplate-site
+</span></span></code></pre></div></li>
+</ul>
+<h2 id="初始化版本控制並下載主題"><strong>初始化版本控制並下載主題</strong></h2>
+<ul>
+<li>
+<p>初始化 Git，並將 Hugoplate 主題作為子模組添加：</p>
+<ul>
+<li><strong>指令：</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git submodule add https://github.com/zeon-studio/hugoplate.git themes/hugoplate
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="安裝-hugoplate-所需的依賴"><strong>安裝 Hugoplate 所需的依賴</strong></h2>
+<ul>
+<li>
+<p>進入主題目錄，執行以下指令以完成安裝和配置：</p>
+<ul>
+<li>
+<p><strong>進入主題目錄：</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd themes/hugoplate
+</span></span></code></pre></div></li>
+<li>
+<p><strong>運行項目初始化：</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>npm run project-setup
+</span></span></code></pre></div></li>
+<li>
+<p><strong>安裝依賴：</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>npm install
+</span></span></code></pre></div></li>
+<li>
+<p><strong>啟動本地開發伺服器：</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>npm run dev
+</span></span></code></pre></div></li>
+</ul>
+</li>
+<li>
+<p>此時，您的開發伺服器將在本地運行，預設地址為 <a href="http://localhost:1313"
+
+
+
+
+ target="_blank"
+ 
+
+
+>http://localhost:1313</a>。</p>
+</li>
+</ul>
+<hr>
+<h2 id="產生文章"><strong>產生文章</strong></h2>
+<ul>
+<li>
+<p>使用以下指令新增一篇文章：</p>
+<ul>
+<li><strong>指令：</strong>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new blog/your-post-title.md
+</span></span></code></pre></div></li>
+</ul>
+</li>
+<li>
+<p>編輯該檔案，撰寫文章內容。</p>
+</li>
+</ul>
+<hr>
+<h2 id="部署到-github-pages"><strong>部署到 GitHub Pages</strong></h2>
+<ul>
+<li>
+<p>將網站部署到 GitHub Pages：</p>
+<ul>
+<li>
+<p><strong>步驟 1：</strong> 修改專案根目錄的 <code>hugo.toml</code> 配置文件中的 <code>baseURL</code>：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;https://yayachang.github.io/&#34;</span>
+</span></span></code></pre></div></li>
+<li>
+<p><strong>步驟 2：</strong> 生成靜態文件：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo
+</span></span></code></pre></div></li>
+<li>
+<p><strong>步驟 3：</strong> 將 <code>public</code> 資料夾中的內容放入您的 GitHub Repository（例如 <code>yayachang.github.io</code>），然後執行以下指令：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd public
+</span></span><span style="display:flex;"><span>git init
+</span></span><span style="display:flex;"><span>git add .
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;Deploy site&#34;</span>
+</span></span><span style="display:flex;"><span>git push -u origin main
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="訪問您的網站"><strong>訪問您的網站</strong></h2>
+<ul>
+<li>部署完成後，您可以通過以下地址訪問您的網站：<br>
+<a href="https://yayachang.github.io/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>https://yayachang.github.io/</a></li>
+</ul>
+<hr>
+<p>完成！ 🎉 現在您已成功安裝並部署了一個 Hugo 網站！如需進一步修改，請返回專案並更新內容後重新部署。</p>
 
           </div>
           <div class="row items-start justify-between">
@@ -1111,29 +1306,6 @@
             </div>
           </div>
           
-          
-            <div class="mt-20">
-              <div id="disqus_thread"></div>
-<script>
-    window.disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "themefisher-template" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </div>
           
         </article>
       </div>
