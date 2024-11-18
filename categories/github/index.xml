@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Github on Yaya&#39;s WebSite</title>
-    <link>https://yayachang.github.io/categories/github/</link>
-    <description>Recent content in Github on Yaya&#39;s WebSite</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2024 14:06:22 +0800</lastBuildDate>
-    <atom:link href="https://yayachang.github.io/categories/github/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>怎麼用Github加上Hugo架個人網站？</title>
-      <link>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</link>
-      <pubDate>Sun, 17 Nov 2024 14:06:22 +0800</pubDate>
-      <guid>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</guid>
-      <description>&lt;p&gt;最近看到有人用 GitHub + Hugo 架設網站，覺得有趣就試試看。&#xA;花了半天研究，加上 AI 幫忙，終於弄出個樣子。&#xA;用了 HugoPlate 和 GitHub，成功架設了個人網站。&#xA;記錄下安裝步驟，避免哪天突然壞掉。&#xA;原來這樣的技術還能拿來開課，真是開眼界！原來市場這麼需要這些簡單易懂實用的技術。&#xA;學到不少，也算是一次有趣的嘗試！&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Github on Yaya's WebSite</title><link>https://yayachang.github.io/categories/github/</link><description>Recent content in Github on Yaya's WebSite</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 17 Nov 2024 14:06:22 +0800</lastBuildDate><atom:link href="https://yayachang.github.io/categories/github/index.xml" rel="self" type="application/rss+xml"/><item><title>怎麼用Github加上Hugo架個人網站？</title><link>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</link><pubDate>Sun, 17 Nov 2024 14:06:22 +0800</pubDate><guid>https://yayachang.github.io/blog/how-to-use-hugo-githubio/</guid><description>&lt;p>最近看到有人用 GitHub + Hugo 架設網站，覺得有趣就試試看。
+花了半天研究，加上 AI 幫忙，終於弄出個樣子。
+用了 HugoPlate 和 GitHub，成功架設了個人網站。
+記錄下安裝步驟，避免哪天突然壞掉。
+原來這樣的技術還能拿來開課，真是開眼界！原來市場這麼需要這些簡單易懂實用的技術。
+學到不少，也算是一次有趣的嘗試！&lt;/p></description></item></channel></rss>
