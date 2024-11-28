@@ -6,7 +6,7 @@ date: '2024-11-29T20:00:00+08:00'
 image: "/images/android-google-error.png"
 categories: ["Android"]
 author: "Yaya"
-tags: ["Android", "Firebase", "Google SignIn"]
+tags: ["android", "firebase", "google"]
 draft: false
 ---
 
