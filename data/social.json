@@ -1,24 +1,24 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "threads",
+      "icon": "fab fa-threads",
+      "link": "https://www.threads.net/@yung_hsin_c"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "X",
+      "icon": "fab fa-x",
+      "link": "https://x.com/yunghsincc"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/yayachang"
     },
     {
       "name": "linkedin",
       "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/in/yunghsinchang/"
     }
   ]
 }
