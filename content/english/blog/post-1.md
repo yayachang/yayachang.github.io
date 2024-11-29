@@ -1,5 +1,5 @@
 ---
-title: "Android踩雷紀錄-Google登入一直出現APIException 10"
+title: "Android SignIn Exception"
 meta_title: ""
 description: "this is meta description"
 date: '2024-11-29T20:00:00+08:00'
