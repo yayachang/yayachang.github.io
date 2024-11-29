@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Android踩雷紀錄-Google登入一直出現APIException 10"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+date: '2024-11-29T20:00:00+08:00'
+image: "/images/android-google-error.png"
 categories: ["Android"]
-author: "John Doe"
-tags: ["android", "tailwind"]
+author: "Yaya"
+tags: ["android", "firebase", "google"]
 draft: false
 ---
 今天試著建立一個新專案，想把 Google 登入功能串接進 Android 專案。因為之前的專案已經實現過類似功能，就打算直接把程式碼複製過來用，並將原本的 Java 和 XML 改成 Kotlin 和 Compose，感覺應該不會太難。💻
