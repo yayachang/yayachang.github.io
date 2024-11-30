@@ -1,4 +1,3 @@
-![gpt-actions-blog](https://github.com/user-attachments/assets/88313227-e0b0-4587-9e7a-d7d72ac04051)
 ---
 title: "利用 GPT 和 Github Actions 自動化發佈技術文章"
 meta_title: "利用 GPT 和 Github Actions 快速生成並發佈技術文章"
