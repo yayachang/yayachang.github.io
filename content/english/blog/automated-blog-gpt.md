@@ -1,4 +1,3 @@
-
 ---
 title: "利用 GPT 和 Github Actions 自動化發佈技術文章"
 meta_title: "利用 GPT 和 Github Actions 快速生成並發佈技術文章"
