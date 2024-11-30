@@ -1,9 +1,9 @@
----
+![gpt-actions-blog](https://github.com/user-attachments/assets/88313227-e0b0-4587-9e7a-d7d72ac04051)---
 title: "利用 GPT 和 Github Actions 自動化發佈技術文章"
 meta_title: "利用 GPT 和 Github Actions 快速生成並發佈技術文章"
 description: "透過 GPT 和 Github Actions，將零碎的技術筆記快速整理為正式文章並自動發佈，提升內容管理效率。"
 date: '2024-11-30T14:00:00+08:00'
-image: "/images/image-placeholder.png"
+image: "/images/gpt-actions-blog.png"
 categories: ["技術筆記"]
 author: "Yaya"
 tags: ["GPT", "自動化"]
