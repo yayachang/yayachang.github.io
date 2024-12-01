@@ -3,7 +3,7 @@ title: "國中同學敘舊的感悟"
 meta_title: "國中同學敘舊，分享彼此的生活點滴"
 description: "一次國中同學的聚會，讓人感慨生活的不同選擇與共同的價值觀，讓友誼得以延續。"
 date: '2024-12-01T14:30:00+08:00'
-image: "/images/reunion-reflections.png"
+image: "/images/reunion-reflections.webp"
 categories: ["生活隨筆"]
 author: "Yaya"
 tags: ["同學聚會", "價值觀"]
