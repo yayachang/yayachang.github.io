@@ -9,6 +9,8 @@ author: "Yaya"
 tags: ["CameraX", "Camera2"]
 draft: false
 ---
+
+
 在 CameraX 開發中，遇到外接鏡頭支援問題是一個常見挑戰。CameraX 的設計主要是為了簡化相機功能的開發，但它的某些功能（例如外接硬體設備的完全支援）可能還未成熟。因此，在某些情境下，開發者需要向下相容，使用低階 Camera API（例如 Camera2）來解決問題。
 
 **解決方法**：
