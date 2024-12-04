@@ -1,4 +1,3 @@
-
 ---
 title: "解決 CameraX 外接鏡頭支援問題"
 meta_title: "CameraX 外接鏡頭支援挑戰與解決方案"
@@ -19,4 +18,5 @@ draft: false
 3. **結合兩者優勢**：在 CameraX 的基礎上，加入 Camera2 API 的特定實作，以達到最佳效果。
 
 CameraX 和 Camera2 的結合可以有效解決外接鏡頭支援的問題，同時保持較高的開發效率。
+
 ---
