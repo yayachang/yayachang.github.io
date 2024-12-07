@@ -3,7 +3,7 @@ title: "解決 CameraX 外接鏡頭支援問題"
 meta_title: "CameraX 外接鏡頭支援挑戰與解決方案"
 description: "探討在 CameraX 開發中遇到外接鏡頭支援問題的挑戰，並提供使用 Camera2 API 的解決方案。"
 date: '2024-12-05T14:00:00+08:00'
-image: "/images/2024-12-05.webp"
+image: "/images/2024-12-04.webp"
 categories: ["技術分享"]
 author: "Yaya"
 tags: ["CameraX", "Camera2"]
