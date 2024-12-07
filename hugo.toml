@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://yayachang.github.io/"
+baseURL = "https://www.yunghsin.app/"
+#"https://yayachang.github.io/"
 # Title of your website (required).
 title = "Yaya's WebSite"
 # Your theme name
