@@ -3,12 +3,13 @@ title: "Google帳戶驗證與鄧白氏編碼"
 meta_title: "Google帳戶驗證與鄧白氏編碼的完整指南"
 description: ""
 date: '2024-12-28T12:00:00+08:00'
-image: "/images/duns_flow.png"
+image: "/images/duns_flow.webp"
 categories: ["技術分享"]
 author: "Yaya"
 tags: ["Google開發者帳戶", "鄧白氏編碼"]
 draft: false
 ---
+
 
 了解鄧白氏編碼在Google開發者帳戶申請中的重要性，以及如何透過正確的步驟加速審核流程。
 
