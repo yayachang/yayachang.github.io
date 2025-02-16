@@ -5,6 +5,7 @@ description: "學齡前小朋友生活中的兩大核彈級事件：嘔吐和便
 date: '2024-08-17T08:00:00+08:00'
 categories: ["育兒生活"]
 author: "Yaya"
+image: "/images/baby_trouble.webp"
 tags: ["育兒挑戰", "生活分享"]
 draft: false
 ---
