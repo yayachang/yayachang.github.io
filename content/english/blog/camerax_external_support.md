@@ -15,7 +15,6 @@ draft: false
 
 
 ---
-
 **解決方法**：
 
 1. **檢查外接鏡頭的支援狀態**：透過 Camera2 API 提供的 `CameraManager` 和 `CameraCharacteristics` 確認設備支援情況。

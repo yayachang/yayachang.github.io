@@ -9,6 +9,12 @@ author: "Yaya"
 tags: ["android", "firebase", "google"]
 draft: false
 ---
+
+Google登入一直出現APIException 10的問題解決
+
+
+
+---
 今天試著建立一個新專案，想把 Google 登入功能串接進 Android 專案。因為之前的專案已經實現過類似功能，就打算直接把程式碼複製過來用，並將原本的 Java 和 XML 改成 Kotlin 和 Compose，感覺應該不會太難。💻
 
 確實，現在有 AI 協助，做這些轉換的效率提升不少。不過麻煩的是，近年來 Android 不斷棄用舊技術，加上 Gradle 設定格式頻繁變更，就算有 AI，也經常給出過時的專案配置，還是得自己調整才能正常運行。（每次都不禁想，新手要搞懂這些 Gradle 的設定到底有多難！🤯）

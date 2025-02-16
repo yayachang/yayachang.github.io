@@ -14,10 +14,7 @@ draft: false
 **Github Pages** 和 **Hugo**，只要將新的 Markdown 檔案推送到 GitHub，Github Actions 就會自動完成文章的部署。
 
 
-
 ---
-
-
 ## GPT 的角色與流程
 
 靈機一動之下，我想到：若能把平時在開發過程中的零碎筆記交給 GPT，透過其強大的整理能力和 Github Actions 的自動化功能，就能快速生成結構完善的技術文章。這個方法將技術筆記快速納入內容管理系統中，極大地減少了手動整理的時間。
