@@ -10,7 +10,10 @@ tags: ["Github", "AWS","自動化"]
 draft: false
 ---
 
+
 從 GitHub Actions 自動化部署到 Amazon EC2 並整合 S3 的流程
+
+
 
 ---
 

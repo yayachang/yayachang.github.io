@@ -10,7 +10,10 @@ tags: ["GPT", "自動化"]
 draft: false
 ---
 
-在今天的技術實驗中，我嘗試用 GPT 幫助自動化發佈我的 blog 文章。由於我的 blog 已經使用了 **Github Pages** 和 **Hugo**，只要將新的 Markdown 檔案推送到 GitHub，Github Actions 就會自動完成文章的部署。
+在今天的技術實驗中，我嘗試用 GPT 幫助自動化發佈我的 blog 文章。由於我的 blog 已經使用了 
+**Github Pages** 和 **Hugo**，只要將新的 Markdown 檔案推送到 GitHub，Github Actions 就會自動完成文章的部署。
+
+
 
 ---
 
