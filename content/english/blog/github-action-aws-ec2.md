@@ -9,15 +9,6 @@ author: "Yaya"
 tags: ["Github", "AWS","自動化"]
 draft: false
 ---
-
-
-從 GitHub Actions 自動化部署到 Amazon EC2 並整合 S3 的流程
-
-
-
----
-
-
 以下說明如何設定 GitHub Actions，自動將 Ktor 專案的 `app.jar` 上傳至 S3，再將其部署到 EC2 並重啟應用程式。
 
 ---
