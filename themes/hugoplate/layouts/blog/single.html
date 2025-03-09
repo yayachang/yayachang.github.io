@@ -66,11 +66,9 @@
             </div>
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
-            <div class="mt-20">
-              {{ template "_internal/disqus.html" . }}
-            </div>
-          {{ end }}
+          <div class="mt-20">
+            {{ partial "comments.html" . }}
+          </div>
         </article>
       </div>
 
