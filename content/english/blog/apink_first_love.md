@@ -12,7 +12,7 @@ draft: false
 
 ### 初見 Apink
 
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_0403_1.png)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_0403_1.png)
 第一次遇見 Apink 是在 2025 第一天 在電視上重播看新北跨年表演。本來我主要是來看 加拿大聲樂老師 的表演（因為之前 YouTube 有看），沒想到竟然來現場表演，已經覺得很驚艷了，但接下來的表演才改變自己未來的一場 Show。
 接著看了 四位女子韓國團體 的表演，而立刻就被她們第一首歌《1도 없어》吸引，左右踮腳的樣子好特別又讓人想一看再看。
 
@@ -25,7 +25,7 @@ draft: false
 ⸻
 
 ### 戴著眼鏡的女孩
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_0403_2.png)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_0403_2.png)
 
 其實最吸引我的就是 戴著眼鏡的那位女孩，因為女子偶像又唱跳的很少會有人戴眼鏡，就會吸引著你一直看著她，加上白襯衫加黑裙總是會想到 青春的氣息。
 
@@ -37,7 +37,7 @@ draft: false
 
 ### Mr. Chu 的衝擊
 
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_0403_3.png)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_0403_3.png)
 最後會讓我記得她們的應該是在表演 《Mr. Chu》，在那位還不清楚她名字的女孩跳出 扭腰舞步，好像心跳被震出來，怎麼有舉手投足這麼可愛性感又迷人。我想應該就是在那時被這位 戴眼鏡的女孩 給圈粉了，也記住她們是 Apink。
 
 ⸻
@@ -79,7 +79,7 @@ draft: false
 
 為了未來還能看到她們繼續表演，所以起心動念寫下這些心路歷程，之後也會寫一些看影片跟聽音樂的感想，希望還是有更多人認識她們。
 
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_0403_4.jpg)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_0403_4.jpg)
 
 喜歡歌聲甜美療癒的風格很推薦聽她們的歌，很多抒情歌都很耐聽，先推她們的在Killing Voice的表演。
 [https://www.youtube.com/watch?v=tJGunpmi2wo](https://www.youtube.com/watch?v=tJGunpmi2wo)
@@ -100,8 +100,8 @@ draft: false
 
 最後發現自己喜歡的偶像類型氣質很像(不是長相唷)，尤其是看到這張的時候。
 
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_karen.jpg)
-![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/imsages/apink/apink_0403_6.jpeg)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_karen.jpg)
+![](https://github.com/yayachang/yayachang.github.io/tree/hugoplate/assets/images/apink/apink_0403_6.jpeg)
 
 都是因為她們都是具有獨特魅力的偶像的關係吧！ 還有她們笑起來跟裝酷真的都太美了。
 瓏Leader真的就是走清純甜美可愛跟帥氣路線沒關係(喜歡她跳帥氣的舞步)，性感讓普美南珠跟夏榮去擔當就好。
