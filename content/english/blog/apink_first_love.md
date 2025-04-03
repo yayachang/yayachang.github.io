@@ -1,7 +1,7 @@
 ---
 title: "初見 Apink"
 meta_title: "第一次遇見Apink"
-description: ""
+description: "一位2025入圈粉絲Panda初見Apink的心路歷程"
 date: '2025-04-03T14:12:53+08:00'
 image: "/images/apink/apink_first_love.jpeg"
 categories: ["音樂"]
