@@ -119,3 +119,5 @@ draft: false
 [2025臺北最HIGH新年城-跨年晚會](https://www.youtube.com/watch?v=lMU9FseF9Dw)
 
 [에이핑크(Apink)의 킬링보이스를 라이브로! – Mr. Chu, NoNoNo, 1도 없어, D N D, LUV, 덤더럼, 몰라요, Remember, U You | 딩고뮤직](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtJGunpmi2wo&psig=AOvVaw2HLY1ngXcR0dHZt5lNq8Bh&ust=1743760059421000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC278fKu4wDFQAAAAAdAAAAABAE)
+
+[2024 Apink 7th Concert ＜PINK CHRISTMAS> 비하인드](https://weverse.io/apink/media/2-157629029)
