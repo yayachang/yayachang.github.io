@@ -2,7 +2,7 @@
 title: "自動化登入 AWS SSO Login"
 meta_title: "自動刷新 AWS SSO Session：排程腳本全攻略"
 description: "透過簡單的 Bash 腳本搭配 cron 排程，自動偵測並重新登入 AWS SSO，避免手動重複登入的麻煩。"
-date: '2025-03-10T08:00:00+08:00'
+date: '2025-09-16T08:00:00+08:00'
 image: "/images/aws-sso-auto-login.svg"
 categories: ["技術筆記"]
 author: "Yaya"
