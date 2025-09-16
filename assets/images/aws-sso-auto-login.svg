@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AWS SSO Auto Login Illustration</title>
+  <desc id="desc">Dark blue background with abstract cloud shapes and the text AWS SSO Auto Login Automation Script</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#1b2a4a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#00c6ff" />
+      <stop offset="100%" stop-color="#0072ff" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="48" />
+
+  <g opacity="0.18" fill="#5dade2">
+    <circle cx="1080" cy="100" r="120" />
+    <circle cx="90" cy="510" r="160" />
+    <circle cx="260" cy="150" r="110" />
+    <circle cx="950" cy="470" r="140" />
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="210" y="180" width="780" height="300" rx="32" fill="rgba(13, 27, 42, 0.65)" stroke="rgba(0, 198, 255, 0.4)" stroke-width="2" />
+    <rect x="240" y="220" width="720" height="80" rx="18" fill="rgba(0, 198, 255, 0.18)" />
+    <rect x="240" y="320" width="480" height="60" rx="14" fill="rgba(0, 198, 255, 0.12)" />
+    <rect x="740" y="320" width="220" height="60" rx="14" fill="rgba(0, 198, 255, 0.12)" />
+    <rect x="240" y="400" width="400" height="40" rx="12" fill="rgba(0, 198, 255, 0.1)" />
+  </g>
+
+  <text x="220" y="260" font-family="'Inter', 'Noto Sans TC', sans-serif" font-weight="600" font-size="48" fill="#f8fbff">AWS SSO Auto Login</text>
+  <text x="220" y="320" font-family="'Inter', 'Noto Sans TC', sans-serif" font-size="26" fill="#cbd5f5">Session refresh script &amp; cron automation</text>
+
+  <g transform="translate(240 360)">
+    <rect x="0" y="0" width="520" height="68" rx="22" fill="rgba(0, 198, 255, 0.16)" stroke="rgba(0, 198, 255, 0.4)" />
+    <text x="30" y="42" font-family="'Fira Code', 'Source Code Pro', monospace" font-size="26" fill="#e6f7ff">aws sso login --profile default</text>
+  </g>
+
+  <g transform="translate(240 460)">
+    <circle cx="32" cy="32" r="32" fill="url(#accent)" />
+    <path d="M26 32l10 10 18-22" fill="none" stroke="#0d1b2a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="80" y="40" font-family="'Inter', 'Noto Sans TC', sans-serif" font-size="24" fill="#e6f7ff">Automate the boring login routine</text>
+  </g>
+</svg>
