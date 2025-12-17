@@ -102,7 +102,7 @@ let config = GIDConfiguration(
 | 設定項目 | Android 專案 | iOS 專案 |
 | :--- | :--- | :--- |
 | Console 需建立 | Android ID + Web ID | iOS ID + Web ID |
-| 程式碼主要變數 | GOOGLE_CLIENT_ID_ANDROID (變數名) | clientID |
+| 程式碼主要變數 | GOOGLE_CLIENT_ID_WEB (變數名) | clientID |
 | 變數實際值 (Value) | Web Client ID | iOS Client ID |
 | Server ID (接收端) | 同上 (填 Web ID) | serverClientID (填 Web ID) |
 | 關鍵口訣 | 後台設兩組，Code 裡只填 Web ID | 後台設兩組，Code 裡分別填 iOS ID 和 Web ID |
