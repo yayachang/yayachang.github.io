@@ -55,3 +55,54 @@ Android 的運作機制是「隱性驗證，顯性指定接收者」。
 # 這裡是填 Web Client ID (.apps.googleusercontent.com)
 GOOGLE_CLIENT_ID_WEB="your-web-client-id.apps.googleusercontent.com"
 ```
+
+**Kotlin Code:**
+```kotlin
+// 讀取 Web Client ID
+val serverClientId = BuildConfig.GOOGLE_CLIENT_ID_WEB
+
+GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+    .requestIdToken(serverClientId) // ✅ 正確：填入 Web Client ID
+    .requestEmail()
+    .build()
+```
+
+---
+
+## 3. iOS 平台實作
+
+iOS 的運作機制比較直觀，需要同時明確宣告「我是誰」和「我要傳給誰」。
+
+* **機制**：iOS App 必須使用 iOS Client ID 來發起登入請求（證明自己是合法的 iOS App），同時指定 Web Client ID 作為 serverClientID 以便後端驗證。
+
+### 常見錯誤
+* ❌ **錯誤**：把 clientID 設定成 Web Client ID。
+    * *後果*：Google 會報錯，因為 Web Client ID 沒有綁定 iOS 的 Bundle ID。
+* ❌ **錯誤**：忘記設定 serverClientID。
+    * *後果*：雖然能登入，但拿到的 Token 無法被後端或 Android 通用驗證。
+
+### KMM 設定範例 (`iosApp`)
+
+**iOSApp.swift:**
+```swift
+import GoogleSignIn
+
+// ... 在設定 GIDConfiguration 時
+
+let config = GIDConfiguration(
+    clientID: "your-ios-client-id.apps.googleusercontent.com", // ✅ 填入 iOS Client ID (發起登入)
+    serverClientID: "your-web-client-id.apps.googleusercontent.com" // ✅ 填入 Web Client ID (接收 Token)
+)
+```
+
+---
+
+## 4. 總結對照表
+
+| 設定項目 | Android 專案 | iOS 專案 |
+| :--- | :--- | :--- |
+| Console 需建立 | Android ID + Web ID | iOS ID + Web ID |
+| 程式碼主要變數 | GOOGLE_CLIENT_ID_ANDROID (變數名) | clientID |
+| 變數實際值 (Value) | Web Client ID | iOS Client ID |
+| Server ID (接收端) | 同上 (填 Web ID) | serverClientID (填 Web ID) |
+| 關鍵口訣 | 後台設兩組，Code 裡只填 Web ID | 後台設兩組，Code 裡分別填 iOS ID 和 Web ID |
